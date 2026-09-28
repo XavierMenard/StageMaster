@@ -18,7 +18,7 @@ Ce projet est une solution front-end conçue pour les étudiants en stage cherch
 Aucune installation complexe n'est requise !
 Clonez le dépôt :
 ```bash
-   git clone https://github.com/votre-nom-utilisateur/nom-du-repo.git
+   git clone https://github.com/XavierMenard/StageMaster.git)
    ```
 Ouvrez le fichier principal :
 Double-cliquez simplement sur le fichier `index.html` ou ouvrez-le dans votre navigateur web favori.
